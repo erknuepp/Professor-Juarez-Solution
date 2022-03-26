@@ -1,0 +1,13 @@
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.exe.config
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.exe
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.pdb
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.xml
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez.vbproj.AssemblyReference.cache
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez.vbproj.SuggestedBindingRedirects.cache
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor_Juarez_Project.frmMain.resources
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor_Juarez_Project.Resources.resources
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez.vbproj.GenerateResource.cache
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez.vbproj.CoreCompileInputs.cache
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.exe
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.xml
+C:\Users\knueppel\Work Folders\Desktop\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.pdb

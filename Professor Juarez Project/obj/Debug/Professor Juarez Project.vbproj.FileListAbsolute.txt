@@ -1,0 +1,23 @@
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.exe.config
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.exe
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.pdb
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.xml
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor_Juarez_Project.frmMain.resources
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor_Juarez_Project.Resources.resources
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.exe
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.xml
+E:\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.pdb
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.exe.config
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.exe
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.pdb
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\bin\Debug\Professor Juarez Project.xml
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.vbprojAssemblyReference.cache
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor_Juarez_Project.frmMain.resources
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor_Juarez_Project.Resources.resources
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.vbproj.GenerateResource.cache
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.vbproj.CoreCompileInputs.cache
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.exe
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.xml
+C:\Users\sterp\Desktop\vbdatafiles\Chapter 8 Data Files\VB2017\Chap08\Professor Juarez Solution\Professor Juarez Project\obj\Debug\Professor Juarez Project.pdb
